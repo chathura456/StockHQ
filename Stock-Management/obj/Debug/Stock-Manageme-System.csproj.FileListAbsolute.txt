@@ -1,0 +1,92 @@
+F:\Assignments\C# Stock management\TestFile\bin\Debug\TutorHQ.exe.config
+F:\Assignments\C# Stock management\TestFile\bin\Debug\TutorHQ.exe
+F:\Assignments\C# Stock management\TestFile\bin\Debug\TutorHQ.pdb
+F:\Assignments\C# Stock management\TestFile\bin\Debug\BouncyCastle.Crypto.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\Google.Protobuf.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\K4os.Compression.LZ4.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\K4os.Hash.xxHash.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\MySql.Data.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Buffers.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.IO.Pipelines.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Memory.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Numerics.Vectors.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\ZstdSharp.dll
+F:\Assignments\C# Stock management\TestFile\bin\Debug\BouncyCastle.Crypto.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\Google.Protobuf.pdb
+F:\Assignments\C# Stock management\TestFile\bin\Debug\Google.Protobuf.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\K4os.Compression.LZ4.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\K4os.Hash.xxHash.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\MySql.Data.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Buffers.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.IO.Pipelines.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Memory.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Numerics.Vectors.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Assignments\C# Stock management\TestFile\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Assignments\C# Stock management\TestFile\obj\Debug\Stock-Manageme-System.csproj.AssemblyReference.cache
+F:\Assignments\C# Stock management\TestFile\obj\Debug\Stock-Manageme-System.csproj.SuggestedBindingRedirects.cache
+F:\Assignments\C# Stock management\TestFile\obj\Debug\TutorHQ.Dashboard.resources
+F:\Assignments\C# Stock management\TestFile\obj\Debug\TutorHQ.LoginForm.resources
+F:\Assignments\C# Stock management\TestFile\obj\Debug\TutorHQ.Properties.Resources.resources
+F:\Assignments\C# Stock management\TestFile\obj\Debug\TutorHQ.Views.Schedules.StockLevels.resources
+F:\Assignments\C# Stock management\TestFile\obj\Debug\TutorHQ.Views.Student_Data.Add_Items.resources
+F:\Assignments\C# Stock management\TestFile\obj\Debug\Stock-Manageme-System.csproj.GenerateResource.cache
+F:\Assignments\C# Stock management\TestFile\obj\Debug\Stock-Manageme-System.csproj.CoreCompileInputs.cache
+F:\Assignments\C# Stock management\TestFile\obj\Debug\Stock-Manageme-System.csproj.CopyComplete
+F:\Assignments\C# Stock management\TestFile\obj\Debug\TutorHQ.exe
+F:\Assignments\C# Stock management\TestFile\obj\Debug\TutorHQ.pdb
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\TutorHQ.exe.config
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\TutorHQ.exe
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\TutorHQ.pdb
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\BouncyCastle.Crypto.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\Google.Protobuf.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\K4os.Compression.LZ4.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\K4os.Hash.xxHash.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\MySql.Data.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Buffers.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.IO.Pipelines.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Memory.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Numerics.Vectors.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\ZstdSharp.dll
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\BouncyCastle.Crypto.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\Google.Protobuf.pdb
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\Google.Protobuf.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\K4os.Compression.LZ4.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\K4os.Hash.xxHash.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\MySql.Data.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Buffers.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.IO.Pipelines.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Memory.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Numerics.Vectors.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\Stock-Manageme-System.csproj.AssemblyReference.cache
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\Stock-Manageme-System.csproj.SuggestedBindingRedirects.cache
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\TutorHQ.Dashboard.resources
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\TutorHQ.LoginForm.resources
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\TutorHQ.Properties.Resources.resources
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\TutorHQ.Views.Schedules.StockLevels.resources
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\TutorHQ.Views.Student_Data.Add_Items.resources
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\Stock-Manageme-System.csproj.GenerateResource.cache
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\Stock-Manageme-System.csproj.CoreCompileInputs.cache
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\Stock-Manageme-System.csproj.CopyComplete
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\TutorHQ.exe
+F:\Assignments\C# Stock management\New folder\Stock-Management\Stock-Management\obj\Debug\TutorHQ.pdb

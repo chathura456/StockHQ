@@ -25,39 +25,41 @@ namespace TutorHQ
 
         private void button1_Click(object sender, EventArgs e)
         {
-            /*if (string.IsNullOrEmpty(txtName.Text.Trim()))
+
+            errorProvider1.Clear();
+
+            if(string.IsNullOrEmpty(txtEmail.Text.Trim()))
             {
-                txtName.Focus();
-                errorProvider1.SetError(txtName, "Username Cannot be null");
+                txtEmail.Focus();
+                errorProvider1.SetError(txtEmail, "Email Cannot be null");
             }
             else if (string.IsNullOrEmpty(txtPass.Text.Trim()))
             {
-                txtName.Focus();
+                txtPass.Focus();
                 errorProvider1.SetError(txtPass, "Password Cannot be null");
             }
-            else
-            {
-
-                var uname = txtName.Text.ToString().Trim();
-                var pass = txtPass.Text.ToString().Trim();
-
-                Users user = LoginControllers.LoginUser(uname, pass);
-                CurrentUser.LoginSuccess = user.LoginSuccess;
-                CurrentUser.Name = user.Name;
-                if (user.LoginSuccess)
+            else {
+                string email = txtEmail.Text.Trim();
+                string pass = txtPass.Text.Trim();
+                bool isAuthenticated = DBconnection.Login(email,pass);
+                if (isAuthenticated)
                 {
-                    MessageBox.Show("You're Successfully Login to TuturHQ" , "Login Success!", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
-                    NavigateTo.To<Dashboard>(this);
+                    DialogResult result = MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                    if (result == DialogResult.OK)
+                    {
+                        NavigateTo.To<Dashboard>(this);
+                    }
                 }
                 else
                 {
-                    MessageBox.Show("Query Not Execute");
+                    MessageBox.Show("Login Failed! \n", "Email or Password Invalid", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
 
-
             }
-            */
-            NavigateTo.To<Dashboard>(this);
+
+
+
 
         }
 
@@ -76,7 +78,7 @@ namespace TutorHQ
 
         private void txtName_TextChanged(object sender, EventArgs e)
         {
-            
+            errorProvider1.Clear();
         }
 
         private void txtPass_TextChanged(object sender, EventArgs e)
@@ -90,6 +92,16 @@ namespace TutorHQ
             {
                 errorProvider1.Clear();
             }
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

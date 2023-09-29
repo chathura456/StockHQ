@@ -3,8 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock-Manageme-System", "D:\Campus\Year 03 Semester 01\Advanced Database Management Systems\Final Assignment\TutorHQ\TutorHQ\TutorHQ\Stock-Manageme-System.csproj", "{02A6245E-A453-4F6F-A1BB-B83C221F275D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock-Manageme", "Stock-Management\Stock-Manageme.csproj", "{02A6245E-A453-4F6F-A1BB-B83C221F275D}"
 EndProject
+#Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{62BAC1CC-BF23-453F-AA52-6EA04FDBDE11}"
+#EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
